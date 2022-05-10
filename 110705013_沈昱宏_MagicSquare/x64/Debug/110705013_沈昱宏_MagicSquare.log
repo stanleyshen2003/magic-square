@@ -1,0 +1,5 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_MagicSquare\Form1.h(484): warning C4715: 'CppCLRWinFormsProject::Form1::position_of_i': 不是所有控制路徑都傳回值
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_MagicSquare\Form1.h(494): warning C4715: 'CppCLRWinFormsProject::Form1::direction': 不是所有控制路徑都傳回值
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  110705013_沈昱宏_MagicSquare.vcxproj -> C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_MagicSquare\x64\Debug\110705013_沈昱宏_MagicSquare.exe
